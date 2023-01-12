@@ -1,0 +1,5 @@
+Bootstrap 5 has dropped jQuery!
+Forms hav been revamped
+Right to left support has been added
+new utilities classes
+two new components offcanvas accordin
