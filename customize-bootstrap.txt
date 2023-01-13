@@ -1,0 +1,7 @@
+To customize the bootstrap we want auto prefixer  and sass 
+after that we can do the customize , we can change anything like primary color secondary color as per out website design.
+npm install sass we  can install globally also
+npm install postcss-cli autoprefixer --> in the css foler
+so then after creating sass and css file we can change the variable sass and we can compile it in css with sass bootstrap.sass bootstrap.css
+after the generated file is going to have all the customization
+
